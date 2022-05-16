@@ -24,5 +24,5 @@ docker-compose up -d
 ./airflow.sh
 ```
 ### Confirm that Airflow is running [localhost:8080](http://localhost:8080/)
-Now navigate to the DAGs page and run the Airflow_and_Cassandra DAG, start building your own DAG.
+Now navigate to the DAGs page and run the Airflow_and_Cassandra DAG, start building your own DAG. You can read more about this here [Airflow and Casssandra](https://blog.anant.us/airflow-and-cassandra-writing-to-cassandra-from-airflow/).
 
